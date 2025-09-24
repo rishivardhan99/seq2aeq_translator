@@ -1,0 +1,11 @@
+Submission checklist:
+- [ ] train.py
+- [ ] infer.py
+- [ ] demo.py (or notebook)
+- [ ] data/sample_eng_fra.txt (or full dataset)
+- [ ] models/ (model files saved after training)
+- [ ] README.md
+- [ ] requirements.txt
+- [ ] .gitignore
+- [ ] LICENSE
+- Upload the entire repository to GitHub and include a link in your submission.

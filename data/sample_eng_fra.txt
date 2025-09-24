@@ -1,0 +1,5 @@
+hello   bonjour
+how are you?   comment ça va ?
+i love you   je t'aime
+good morning   bonjour
+thank you   merci
